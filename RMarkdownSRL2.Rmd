@@ -18,3 +18,8 @@ Hallo
 ```
 
 der code block berechnet 1+1 und zeigt die Summe an.
+
+
+data_csv <- read.csv2("rdata_lernplaner_srl_remastered_2021-04-10_13-42.csv", na ="NA")
+
+View(all_data)
